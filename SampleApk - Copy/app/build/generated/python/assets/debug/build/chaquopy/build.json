@@ -1,0 +1,27 @@
+{
+    "extractPackages": [
+        "certifi",
+        "sklearn.datasets"
+    ],
+    "assets": {
+        "bootstrap-native/x86/select.so": "b24f52954b128e81507614f2601556c25ae19988",
+        "stdlib-native/armeabi-v7a.zip": "cc9bec56b5422931a0d3da9b745d1f77e385c4dc",
+        "bootstrap-native/armeabi-v7a/_ctypes.so": "07675a66e876ccffcf131b743df4be869ff04a71",
+        "app.zip": "b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
+        "requirements-common.zip": "d83021705c6821c1ff0d394681364838e3bea272",
+        "requirements-x86.zip": "b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
+        "stdlib-native/x86.zip": "92efcdc31b511c2265f87909df9bfc61fef0ac37",
+        "bootstrap-native/x86/java/chaquopy.so": "bac95f31df9be40b36a463b6c6aaa84afb70f11e",
+        "stdlib.zip": "71cf48eaec6a5bb677922e7081853f6de4b17b69",
+        "bootstrap-native/armeabi-v7a/select.so": "ab53b3fbd7060e45d9355f1a9d8613c0e8db5358",
+        "bootstrap-native/x86/_ctypes.so": "9891caea32c164061cd863b319a0950ec3a6a489",
+        "cacert.pem": "b2e1652b0723e71335ab582dff0450b276e0733f",
+        "requirements-armeabi-v7a.zip": "b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
+        "bootstrap-native/armeabi-v7a/java/__init__.py": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "bootstrap.zip": "8f0117f040c58f6528365f3e9fb531687212c937",
+        "ticket.txt": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "bootstrap-native/armeabi-v7a/java/chaquopy.so": "681e9d56d3fdd4f6f3746db765678af0ed9b6053",
+        "bootstrap-native/x86/java/__init__.py": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "version": "3.6.5"
+}
