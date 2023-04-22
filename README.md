@@ -1,1 +1,0 @@
-# Kibo 3<sup>rd</sup>
